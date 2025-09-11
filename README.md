@@ -77,7 +77,7 @@ Realiza a segmentação da imagem, assumindo que a pessoa está centralizada. O 
 - Avaliar qualidade das máscaras geradas em relação ao DeepLabV3.
 
 **Tarefas relacionadas:**  
-Melhoria da qualidade das máscaras de segmentação (**Você**)  
+Melhoria da qualidade das máscaras de segmentação (**Eu**)  
 Justificativa técnica será apresentada na **apresentação final**
 
 ---
@@ -93,7 +93,7 @@ Utiliza o framework MediaPipe para detectar pontos-chave anatômicos da pessoa n
 - Conversão dos pontos em formato utilizável pelo Extrator de Características. Buscar criar caractéristicas geométricas baseadas nas localizações destes pontos na máscara de segmentação gerada da imagem.
 
 **Tarefas relacionadas:**  
-Testar melhoria do módulo de detecção de keypoints (**Você**)  
+Testar melhoria do módulo de detecção de keypoints (**Eu**)  
 Verificar se melhoria possui maior qualidade em relação à anterior presente no notebook inicial
 Justificativa técnica será apresentada na **apresentação final**
 
@@ -110,7 +110,7 @@ Extrai vetores de características com base na geometria dos keypoints detectado
 - Garantir compatibilidade com a comparação com os vetores alvos verdadeiros após implementar o código de avaliação
 
 **Tarefas relacionadas:**  
-Implementar código de avaliação da métrica alvo RMSE (Root Mean Square Error) (**Você**)  
+Implementar código de avaliação da métrica alvo RMSE (Root Mean Square Error) (**Eu**)  
 Justificativa técnica será apresentada na **apresentação final**
 
 ---
@@ -125,7 +125,7 @@ Modelo de regressão Random Forest é treinado para estimar medidas a partir dos
 - Avaliação com a métrica alvo de regressão definida: RMSE (Root Mean Square Error)
 
 **Tarefas relacionadas:**  
-Desenvolvimento do regressor (**Você**)  
+Desenvolvimento do regressor (**Eu**)  
 Testes unitários (**Colaborador A**)  
 Documentação dos resultados (**Colaborador B**)  
 Justificativa técnica será apresentada na **apresentação final**
@@ -143,7 +143,7 @@ O sistema retorna as medidas estimadas com base na imagem de entrada, como resul
 - Reportar e Documentar experimentos
 
 **Tarefas relacionadas:**  
-Avaliação do pipeline (**Você** e **Colaborador A**)  
+Avaliação do pipeline (**Eu** e **Colaborador A**)  
 Documentação dos resultados (**Colaborador B**)
 
 
