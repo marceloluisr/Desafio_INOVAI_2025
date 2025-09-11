@@ -146,3 +146,18 @@ O sistema retorna as medidas estimadas com base na imagem de entrada, como resul
 Avaliação do pipeline (**Você** e **Colaborador A**)  
 Documentação dos resultados (**Colaborador B**)
 
+
+---
+
+# Notas sobre a organização do trabalho de colaboração no repositório
+
+- Este projeto utiliza uma estratégia de controle centralizado de branches para garantir qualidade, organização dos módulos. As branches são nomeadas no formato: `feature/<nome-da-tarefa>-<colaborador>`. Por exemplo: `feature/dados-preparacao-b`, `feature/unitario-testes-a`, `feature/regressor-lider`
+
+- Cada colaborador trabalha em sua própria branch, de forma paralela e independente.
+- Apenas o Líder Técnico (Eu) realiza o merge para a branch principal (main), após revisão e validação.
+
+## Descrição do processo de integração por parte dos membros colaboradores
+1. O colaborador realiza commits em sua branch.
+2. Abre um **Pull Request** para a branch `main`.
+3. O Líder Técnico revisa, aprova e realiza o merge.
+4. De modo opcional, a branch pode ser removida após integração.
