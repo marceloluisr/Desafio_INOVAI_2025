@@ -4,8 +4,6 @@
 
 ---
 
-Claro! Aqui está a versão traduzida para português brasileiro com a mesma estrutura de checklist em Markdown — pronta para ser usada no seu `README.md`:
-
 ---
 
 ## 🏃‍♂️ Planejamento do Sprint: 09 até 23 de setembro
