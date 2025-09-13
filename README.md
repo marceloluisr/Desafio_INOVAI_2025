@@ -20,8 +20,8 @@ Este projeto propõe um fluxo de execução de aprendizado de máquina para esti
 ---
 
 ### **Bloco de Tarefa 1: 11 até 13 de setembro** – *Configuração inicial e definição da baseline*
-- [ ] Criar notebook para preparação dos dados **-> Colaborador B** [1°]
-- [ ] Organizar a estrutura inicial do notebook **-> Eu e Colaborador B** [2°]
+- [x] Criar notebook para preparação dos dados **-> Colaborador B** [1°]
+- [x] Organizar a estrutura inicial do notebook **-> Eu e Colaborador B** [2°]
 - [ ] Implementar código de avaliação da métrica alvo **-> Eu e Colaborador B** [3°] 
 - [ ] Melhorar a qualidade das máscaras de segmentação geradas na fase Segmentação do fluxo **-> Eu e Colaborador A** [4°]
 - [ ] Documentar os resultados dos experimentos da baseline  **-> Colaborador B** [5°]
