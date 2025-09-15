@@ -1,6 +1,6 @@
 # Desafio_INOVAI_2025
 
-![pipeline_proposta](images/pipeline_proposta.png)
+![pipeline_proposta](images/pipeline_u2net.png)
 
 ---
 
@@ -23,8 +23,8 @@ Este projeto propõe um fluxo de execução de aprendizado de máquina para esti
 - [x] Criar notebook para preparação dos dados **-> Colaborador B** [1°]
 - [x] Organizar a estrutura inicial do notebook **-> Eu e Colaborador B** [2°]
 - [x] Implementar código de avaliação da métrica alvo **-> Eu e Colaborador B** [3°] 
-- [ ] Melhorar a qualidade das máscaras de segmentação geradas na fase Segmentação do fluxo **-> Eu e Colaborador A** [4°]
-- [ ] Documentar os resultados dos experimentos da baseline  **-> Colaborador B** [5°]
+- [x] Melhorar a qualidade das máscaras de segmentação geradas na fase Segmentação do fluxo **-> Eu e Colaborador A** [4°]
+- [x] Documentar os resultados dos experimentos da baseline  **-> Colaborador B** [5°]
 
 ---
 
