@@ -161,3 +161,8 @@ Documentação dos resultados (**Colaborador B**)
 2. Abre um **Pull Request** para a branch `main`.
 3. O Líder Técnico revisa, aprova e realiza o merge.
 4. De modo opcional, a branch pode ser removida após integração.
+
+## Reconhecimento
+
+- Repositório da U2Net https://github.com/xuebinqin/U-2-Net/tree/master
+
