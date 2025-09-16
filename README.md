@@ -66,15 +66,15 @@ Organização da estrutura inicial (**Colaborador B**)
 
 ---
 
-2. Segmentação: Modelo SAM (Segment Anything Model)
+2. Segmentação: Modelo U2Net
 
 **Descrição:**  
-Realiza a segmentação da imagem, assumindo que a pessoa está centralizada. O modelo SAM é utilizado para gerar máscaras que destacam a região de interesse. Nesse caso, o centro da imagem é usada como prompt de ponto para realizar a segmentação da pessoa.
+Realiza a segmentação da imagem, assumindo que a pessoa está centralizada. O modelo U2Net é utilizado para gerar máscaras que destacam a região de interesse. Nesse caso, o Mapa de Saliência da U2Net é binarizado antes de prosserguir para a Detecção de Pontos-Chaves.
 
 **Requisitos:**
-- Instalar e implementar uma função para carregar a imagem de entrada, definir um ponto no centro na imagem e, por fim, gerar a máscara de segmentação.
-- Verificar se deve realizar pré-processamento das imagens para compatibilidade com o modelo
-- Avaliar qualidade das máscaras geradas em relação ao DeepLabV3.
+- Implementar um módulo que realiza a segmentação com U2Net.
+- Verificar se deve realizar pré-processamento das imagens para compatibilidade com o modelo.
+- Avaliar qualidade das máscaras geradas em relação ao DeepLabV3 usado no notebook inicial.
 
 **Tarefas relacionadas:**  
 Melhoria da qualidade das máscaras de segmentação (**Eu**)  
