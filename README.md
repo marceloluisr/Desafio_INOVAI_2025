@@ -28,7 +28,7 @@ Este projeto propõe um fluxo de execução de aprendizado de máquina para esti
 
 ---
 
-### **Bloco de Tarefa 2: 15 até 16 de setembro** – *Desenvolvimento do Regressor no fluxo de execução proposto*
+### **Bloco de Tarefa 2: 15 até 18 de setembro** – *Desenvolvimento do Regressor no fluxo de execução proposto*
 - [ ] Desenvolver código para treinar, validar e testar o regressor de estimação de medidas (alvo) **-> Eu** [6°] 
 - [ ] Escrever testes unitários para o módulo do regressor **-> Colaborador A** [7°]
 - [ ] Documentar os resultados experimentais **-> Colaborador B** [8°]
