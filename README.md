@@ -35,7 +35,7 @@ Este projeto propõe um fluxo de execução de aprendizado de máquina para esti
 
 ---
 
-### **Bloco de Tarefa 3: 19 até 20 de setembro** – *Continuar refinamento do fluxo de execução*
+### **Bloco de Tarefa 3: 21 até 23 de setembro** – *Continuar refinamento do fluxo de execução*
 - [ ] Melhorar o módulo de detecção de keypoints **-> Eu e Colaborador A** [9°]
 - [ ] Avaliar e discutir o desempenho de todo o pipeline **-> Eu e colaboradores** [10°] 
 - [ ] Documentar os resultados da avaliação do pipeline **-> Colaborador B** [11°]
