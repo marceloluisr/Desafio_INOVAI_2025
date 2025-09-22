@@ -165,4 +165,5 @@ Documentação dos resultados (**Colaborador B**)
 ## Reconhecimento
 
 - Repositório da U2Net https://github.com/xuebinqin/U-2-Net/tree/master
-
+- Repositório do RT-Pose https://github.com/qubvel/rt-pose/tree/main
+- Repositório do MediaPipe Solutions https://github.com/google-ai-edge/mediapipe
