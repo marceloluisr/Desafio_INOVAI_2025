@@ -1,4 +1,4 @@
-# Instuções
+# Instruções
 
 Reomendo executar os notebooks no Google Colab. Faça uma cópia destes notebooks e execute nesta sequência:
 
