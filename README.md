@@ -1,6 +1,6 @@
 # Desafio_INOVIA_2025
 
-![pipeline_proposta](images/fluxo_corrigido.png.png)
+![pipeline_proposta](images/fluxo_corrigido.png)
 
 ---
 
