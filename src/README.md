@@ -6,7 +6,7 @@ Reomendo executar os notebooks no Google Colab. Faça uma cópia destes notebook
 1) notebooks/preparacao_analise.ipynb: para preparacao dos arquivos de carregamento dos dados para cada tipo de split. Executado somente uma vez.
 >  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marceloluisr/Desafio_INOVAI_2025/blob/main/src/notebooks/preparacao_analise.ipynb)
 
- 2) notebooks/modelagem_treinamento.ipynb: essencialmente para treinamento dos regressores.
+ 2) notebooks/modelagem_treinamento.ipynb: essencialmente para treinamento dos regressores. Você pode baixar o diretório src/log no Google Colab a fim de usar na avaliação.
   >  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marceloluisr/Desafio_INOVAI_2025/blob/main/src/notebooks/modelagem_treinamento.ipynb)
 
 
