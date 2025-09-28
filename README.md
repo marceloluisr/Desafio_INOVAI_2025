@@ -1,6 +1,6 @@
 # Desafio_INOVIA_2025
 
-![pipeline_proposta](images/pipeline_u2net.png)
+![pipeline_proposta](images/fluxo_corrigido.png.png)
 
 ---
 
@@ -43,8 +43,8 @@ Este projeto propõe um fluxo de execução de aprendizado de máquina para esti
 ---
 
 ### **Bloco de Tarefa 4: 21 até 23 de setembro** – *Preparar finalização*
-- [ ] Revisar todos os componentes e documentações **-> Eu e Colaborador A** [12°]
-- [ ] Preparar apresentação final **-> Eu e Colaborador B** [13°]
+- [x] Revisar todos os componentes e documentações **-> Eu e Colaborador A** [12°]
+- [x] Preparar apresentação final **-> Eu e Colaborador B** [13°]
 
 ---
 
@@ -85,7 +85,7 @@ Justificativa técnica será apresentada na **apresentação final**
 3. Detecção de Keypoints: MediaPipe
 
 **Descrição:**  
-Utiliza o framework MediaPipe para detectar pontos-chave anatômicos da pessoa na imagem (ex: articulações, extremidades).
+Utiliza o framework MediaPipe para BlazePose e biblioteca da RTPose para detectar pontos-chave anatômicos da pessoa na imagem.
 
 **Requisitos:**
 - Integração com MediaPipe para extração de keypoints
@@ -102,7 +102,7 @@ Justificativa técnica será apresentada na **apresentação final**
 4. Extrator de Características: Geometria dos pontos-chave
 
 **Descrição:**  
-Extrai vetores de características com base na geometria dos keypoints detectados (distâncias, ângulos, proporções).
+Extrai vetores de características com base na geometria dos keypoints detectados (distâncias).
 
 **Requisitos:**
 - Funções para cálculo geométrico entre keypoints
@@ -138,9 +138,8 @@ Justificativa técnica será apresentada na **apresentação final**
 O sistema retorna as medidas estimadas com base na imagem de entrada, como resultado final do fluxo de execução.
 
 **Requisitos:**
-- Garantir interface clara para visualização dos resultados
-- Armazenamento dos resultados para análise posterior
-- Reportar e Documentar experimentos
+- Garantir interface clara para visualização dos resultados e funções para avaliar desempenho do sistema
+- Reportar e Documentar experimentos 
 
 **Tarefas relacionadas:**  
 Avaliação do pipeline (**Eu** e **Colaborador A**)  
