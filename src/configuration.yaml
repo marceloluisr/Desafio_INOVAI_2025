@@ -1,0 +1,15 @@
+colab: true
+dataset_path: "/content/drive/MyDrive/Colab Notebooks/SelecaoINOVIA/datasets"
+destination_path: '/content/unzipped_files'
+log_path: './log'
+# opções disponíveis de regressores: DepthwiseSeparableConv1D, XGBoost, Heuristic
+regressor_module_name:  XGBoost  
+# opções disponíveis de detectores de pontos chave: RTPose, BlazePose, Heuristic
+keypoint_module_name: RTPose
+# opções disponíveis de segmentação: DeepLabV3, U2Net
+segmentation_module_name: U2Net
+# define configurações para treinamento do regressor
+train: 
+  batch_size: 120
+  learning_rate: 1e-7
+  u2net_seg_human_model_path: "" # ALTERE aqui com o path do modelo u2net_human_seg baixado
